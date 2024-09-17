@@ -1,4 +1,4 @@
-# patika-bootstrap-linkedin-home-
+# Linkedin Home-
 Linkedin work with Bootstrap v4.6
 >https://academy.patika.dev/tr/courses/bootstrap/odev3
 
